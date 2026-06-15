@@ -34,7 +34,6 @@ I enjoy working on real projects and improving my skills step by step.
 
 - Software Development
 - Design
-- 
 
 ## Goals
 
